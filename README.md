@@ -21,3 +21,5 @@ As a collaborator you need to:
 
 - - -
 Most of the text here was formated via examples at [daringfireball.net] (http://daringfireball.net/projects/markdown/syntax)
+
+Danny MIRCEA ![logo][http://fc08.deviantart.net/fs32/f/2008/197/8/c/sigla_UT_by_dannyboymic.jpg]
