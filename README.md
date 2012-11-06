@@ -1,6 +1,6 @@
-This is the README for my proj
+UMCTP git exercises
 ====================
-A ultra basic cpp file for git learning
+A ultra basic set of cpp and other files for git learning
 
 * * *
 
@@ -16,3 +16,5 @@ As a collaborator you need to:
 	* have a certain amount of interest in what github has to offer
 	* have good/great ideas
 	* always seek to learn new things
+- - -
+Most of the text here was formated via examples at [daringfireball.net] (http://daringfireball.net/projects/markdown/syntax)
