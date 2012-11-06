@@ -22,6 +22,19 @@ As a collaborator you need to:
 - - -
 Most of the text here was formated via examples at [daringfireball.net] (http://daringfireball.net/projects/markdown/syntax)
 
+```python
+def func():
+  print 'welcome'
+  a = 33
+
+```
+
+```cpp
+void main(int argc, char argv* []){
+	cout << "argv[0]="<<argv[0]<<endl;
+}
+```
+
 ```ruby
 this is gem 'text'
 ```
