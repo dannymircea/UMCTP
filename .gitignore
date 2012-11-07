@@ -1,2 +1,6 @@
-*.exe
-*~
+# Danny's .gitignore file
+*.exe  # do not add executable files
+       # these should be created upon compile of main.cpp
+*~     # ignore temporary files created by editors like vim, emacs
+*.test # ignore .test files
+tests  # ignore all files in the 'tests' folder
