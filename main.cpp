@@ -13,5 +13,5 @@ int main(int argc, char* argv[]){
 		cout<<""<<endl;
 		return 0;
 	}
-	cout<<"End of "<<arg[0]<<endl;
+	cout<<"End of "<<argv[0]<<endl;
 }
